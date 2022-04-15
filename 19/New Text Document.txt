@@ -1,0 +1,27 @@
+Employee Controller:
+
+CRUD for customers:
+showCustomers();
+updateCustomer();
+createCustomer();
+deleteCustomer();
+
+showEmployee(); 
+updateEmployeeProfile();
+showTransactions();
+Admin Controller:
+
+CRUD for customers and employees:
+showCustomers();
+updateCustomer();
+createCustomer();
+deleteCustomer();
+
+showEmployee();
+createEmployee();
+deleteEmployee();
+updateEmployeeProfile();
+
+showAdminProfile();
+updateAdminProfile();
+showTransactions();
